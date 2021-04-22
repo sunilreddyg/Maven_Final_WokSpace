@@ -14,5 +14,6 @@ public class ClassD {
   public void closebrowser() 
   {
 	  Reporter.log("close browser");
+	  Reporter.log("End browser");
   }
 }
