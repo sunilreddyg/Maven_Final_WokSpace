@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="default suite">
+		<test name="testA" verbose="2">
+			<classes>
+					<class name="p1.ClassA"></class>
+					<class name="p2.ClassB"></class>
+			</classes>
+		</test>
+</suite>

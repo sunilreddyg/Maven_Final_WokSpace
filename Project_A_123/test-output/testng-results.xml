@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+    <line>
+      <![CDATA[tc001 executed successfull]]>
+    </line>
+    <line>
+      <![CDATA[tc002 executed successfull]]>
+    </line>
+    <line>
+      <![CDATA[tc003 executed successfull]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="83" started-at="2021-04-21T14:15:38Z" finished-at="2021-04-21T14:15:38Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="83" started-at="2021-04-21T14:15:38Z" finished-at="2021-04-21T14:15:38Z">
+      <class name="p2.ClassB">
+        <test-method status="PASS" signature="tc001()[pri:0, instance:p2.ClassB@cb5822]" name="tc001" duration-ms="25" started-at="2021-04-21T19:45:38Z" finished-at="2021-04-21T19:45:38Z">
+          <reporter-output>
+            <line>
+              <![CDATA[tc001 executed successfull]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc001 -->
+        <test-method status="PASS" signature="tc002()[pri:0, instance:p2.ClassB@cb5822]" name="tc002" duration-ms="2" started-at="2021-04-21T19:45:38Z" finished-at="2021-04-21T19:45:38Z">
+          <reporter-output>
+            <line>
+              <![CDATA[tc002 executed successfull]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc002 -->
+        <test-method status="PASS" signature="tc003()[pri:0, instance:p2.ClassB@cb5822]" name="tc003" duration-ms="2" started-at="2021-04-21T19:45:38Z" finished-at="2021-04-21T19:45:38Z">
+          <reporter-output>
+            <line>
+              <![CDATA[tc003 executed successfull]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc003 -->
+      </class> <!-- p2.ClassB -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
