@@ -3,7 +3,8 @@ package p4;
 import org.testng.Reporter;
 import org.testng.annotations.Test;
 
-public class ClassD {
+public class ClassD 
+{
   @Test
   public void openBrowser() 
   {
@@ -15,5 +16,13 @@ public class ClassD {
   {
 	  Reporter.log("close browser");
 	  Reporter.log("End browser");
+  }
+
+
+  @Test
+  public void Captureallscreenshots() 
+  {
+	  Reporter.log("Sceens capture");
+	 
   }
 }
