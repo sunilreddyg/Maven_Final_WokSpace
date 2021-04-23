@@ -25,4 +25,11 @@ public class ClassD
 	  Reporter.log("Sceens capture");
 	 
   }
+  
+  @Test
+  public void sendemails() 
+  {
+	  Reporter.log("emails forwarded");
+	 
+  }
 }
