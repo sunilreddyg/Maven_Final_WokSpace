@@ -32,4 +32,11 @@ public class ClassD
 	  Reporter.log("emails forwarded");
 	 
   }
+  
+  @Test
+  public void Createreport() 
+  {
+	  Reporter.log("Reports generated");
+	 
+  }
 }
