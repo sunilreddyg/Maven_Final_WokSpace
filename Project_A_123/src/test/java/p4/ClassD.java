@@ -36,7 +36,7 @@ public class ClassD
   @Test
   public void Createreport() 
   {
-	  Reporter.log("Reports generated");
+	  Reporter.log("Reports generated for entire testcases");
 	 
   }
 }
