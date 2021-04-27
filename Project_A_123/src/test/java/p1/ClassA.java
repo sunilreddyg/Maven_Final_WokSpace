@@ -22,4 +22,10 @@ public class ClassA
   {
 	  Reporter.log("tc003 executed successfull",true);
   }
+  
+  @Test
+  public void tc004() 
+  {
+	  Reporter.log("tc004 executed successfull",true);
+  }
 }
