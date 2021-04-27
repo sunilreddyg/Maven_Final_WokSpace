@@ -26,6 +26,6 @@ public class ClassA
   @Test
   public void tc005() 
   {
-	  Reporter.log("tc005 executed successfull",true);
+	  Reporter.log("tc005 login executed successfull",true);
   }
 }
