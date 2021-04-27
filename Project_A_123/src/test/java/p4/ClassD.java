@@ -39,4 +39,11 @@ public class ClassD
 	  Reporter.log("Reports generated for entire testcases",true);
 	 
   }
+  
+  @Test
+  public void Createreport_222() 
+  {
+	  Reporter.log("Reports generated for 222 testcases",true);
+	 
+  }
 }
